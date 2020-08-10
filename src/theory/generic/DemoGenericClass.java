@@ -1,5 +1,6 @@
 package theory.generic;
 
+
 public class DemoGenericClass {
     public static void main(String[] args) {
         // create GenericClass Object and determine specify parameter String, Integer
@@ -30,5 +31,7 @@ public class DemoGenericClass {
         //create InheritGenericAnotherClass Object
         InheritGenericAnothorClass in = new InheritGenericAnothorClass<String, String, Integer>("Suong","Nguyen",100);
         System.out.println(in.getValue()+" "+in.getKey()+" "+in.getSomething());
+
+
     }
 }
