@@ -88,8 +88,8 @@ Second Term
 : This is another definition of the second term.
 
 ~~DEATH~~
-[x] Write the press release
-[ ] Update the website
-[ ] Contact the media
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
 
